@@ -1,0 +1,17 @@
+{
+  "name": "dbgeneretor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "config": "^3.3.6",
+    "pg": "^8.7.1"
+  }
+}
